@@ -1,2 +1,1 @@
-# Chi-Squared-Test
-Checking chi Test
+# Chi Squared Test
